@@ -36,7 +36,7 @@
   "wallpaper": [
     {
       "image_id": "1",
-      "image_name": "first",
+      "image_name": "img01",
       "image_thumb": "https://pixabay.com/images/download/samsung-7785324.jpg?attachment",
       "image_upload": "https://pixabay.com/images/download/samsung-7785324.jpg?attachment",
       "image_url": "https://pixabay.com/images/download/samsung-7785324.jpg?attachment",
@@ -54,7 +54,7 @@
     },
     {
       "image_id": "1",
-      "image_name": "first",
+      "image_name": "img02",
       "image_thumb": "https://pixabay.com/get/gb9f34a536f2d84f351b1e17046cc7cf0663661d9abbafaae105a71e8db8755283607c6acd9ca031bec3423bdbc3a9711.jpg",
       "image_upload": "https://pixabay.com/get/gb9f34a536f2d84f351b1e17046cc7cf0663661d9abbafaae105a71e8db8755283607c6acd9ca031bec3423bdbc3a9711.jpg",
       "image_url": "https://pixabay.com/get/gb9f34a536f2d84f351b1e17046cc7cf0663661d9abbafaae105a71e8db8755283607c6acd9ca031bec3423bdbc3a9711.jpg",
